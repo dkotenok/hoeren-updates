@@ -3,12 +3,12 @@
     <channel>
         <title>Hoeren</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Sun, 15 Feb 2026 16:58:29 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.15</title>
+            <pubDate>Sun, 15 Mar 2026 18:08:29 +0100</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren-1.0.3.zip" length="12902831" type="application/octet-stream" sparkle:edSignature="dR+zmQcaAHe2YfY/lJnBobLRoZmHta+LnP+5qdBjOz1id9046OjF/B4Q/MTx6+uZW5JTG3fajE+ZjCzt+ShMBg=="/>
+            <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren-1.0.15.zip" length="12981808" type="application/octet-stream" sparkle:edSignature="loBtCrJODx0ui03l5px5sWYNCQgZfdp4JVRC6kmSQjkRofCjWdLCB+fy+fci+rrFhvtJZJPeyUQFZlbgpQV5Dg=="/>
         </item>
     </channel>
 </rss>
