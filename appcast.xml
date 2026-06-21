@@ -3,6 +3,21 @@
     <channel>
         <title>Hoeren</title>
         <item>
+            <title>1.0.40</title>
+            <pubDate>Sun, 21 Jun 2026 15:47:02 +0200</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.40</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren-1.0.40.zip" length="18850697" type="application/octet-stream" sparkle:edSignature="RBXlHRHM4Wp5pbdoC/1sGYhc3PvZkSVfsyFggDHpMNoBfGp0ULgl7mzA3ygTvgFBT6BtnNgQzUemtJDkJKISCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren40-39.delta" sparkle:deltaFrom="39" length="7495258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9FxZzXKTbZlMJzh1s1mpABi0q6qPd24LKJilooKTTXT89CEaOW64shEj96rxWRIWq9JSdNDfxXJN0wRsBOhxCg=="/>
+                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren40-38.delta" sparkle:deltaFrom="38" length="7517258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lycr9sYCumAamBYzTJDx4lN9m2CDtpwz2YJbCLdyjuPDJaPN1q9YMnxc4nv0hHzqI+e3tnMI4+GpcMcU/KdkCw=="/>
+                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren40-37.delta" sparkle:deltaFrom="37" length="7608182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yQDPXPlIb52vFWZO8ZENFB58hHH0FJ7iCplOtOnIhwrPmIgw4kCe3RRG5w4mfh2oSglApjsWwfGUdezyNOUJCg=="/>
+                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren40-36.delta" sparkle:deltaFrom="36" length="7631886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZVb8SVX6T6ShO5UvqoFKiLtO8W8OhifEQH3i7PTYIUXFjWlXqAw+R7l4zIn/eoUbxn5IiPFDpPaoOBisXTHFAg=="/>
+                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren40-35.delta" sparkle:deltaFrom="35" length="7661694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jD5xTpc0Ts+2UpOiu/YKmDTL1uc8x/vGXseVlub925uA0DiZkABO15Rb0riGWIJ0QwcVM/likwbMptbrB+zbBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.39</title>
             <pubDate>Mon, 01 Jun 2026 23:07:55 +0200</pubDate>
             <sparkle:version>39</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren38-35.delta" sparkle:deltaFrom="35" length="2336962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NJIndjukwjUQn5QMIsfbrbmuMPXqAZdBJewzZzV1dPCDVgxsg/fln2QbhNhC65EOQKlgJRdFeOPiXeOYmBllBw=="/>
                 <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren38-34.delta" sparkle:deltaFrom="34" length="2392482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qgDSYqL1ArJihDMqsczjeunPCi1c/C2mqmgTUOHoV/Qgy4lAFMG6dK1wAxFgF4qHTMhCA8U9i7IPZmJRpv1BDQ=="/>
                 <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren38-33.delta" sparkle:deltaFrom="33" length="2408242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MLcpLo7i7/EEyAdcgCLD+peEcrg3jT8c8TLZj9S7UxHIGLRfloC6wAOc8XGy+7LTPlgx2N7EjTLJjKeHpv/wDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.37</title>
-            <pubDate>Sun, 17 May 2026 17:44:13 +0200</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren-1.0.37.zip" length="18777846" type="application/octet-stream" sparkle:edSignature="LftdCQRdRSAyiSPszBQzuCtu4bb8XtTKy5FtvxR05FqDjUYHOO8qWkkvGYCzCrWHE90XpJ3JsMi3VKivMgDjBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren37-36.delta" sparkle:deltaFrom="36" length="1912846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mw0nd6MGOdnZ5aSBxUbxEVAqE6CMrAz93ZLqIIELHB8EQoHgC2kFp6n/sL3PpC2VlpQqQMMMg1tILg4xZVJZBg=="/>
-                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren37-35.delta" sparkle:deltaFrom="35" length="2124410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H9P4D2rj7h/oRnxNlHYLxWlIHOkMwNX0pPNYyWc8spyWcDoehpRkJtpAbQmuTtRlurIpN6InyQYEwbKxB1ZlCQ=="/>
-                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren37-34.delta" sparkle:deltaFrom="34" length="2136826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8YVYP6dTRKtylE3NIcp7r/0rLeLlagsJixHbiDigIsmD7bOI6Krs/gZ6K4Qd+AGkpDkHiFZrAVqRYp1ob6HOAw=="/>
-                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren37-33.delta" sparkle:deltaFrom="33" length="2162406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="sTn5wzL5ladblfKmpTzcTYuuYA42WgAitF6G7du1F0MOXJR2/FGvEg/KB/OEjIU507Uk42nryxn/K3QtdYeQBQ=="/>
-                <enclosure url="https://dkotenok.github.io/hoeren-updates/Hoeren37-30.delta" sparkle:deltaFrom="30" length="8648526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3PSEuA+6TVsHFaiPveX4WbraKmbCkfQjwpl+peI8WSkuQ9agPcOHk59VSTz9SpTaZDhegadx1TS4kfpRSF80Bg=="/>
             </sparkle:deltas>
         </item>
     </channel>
